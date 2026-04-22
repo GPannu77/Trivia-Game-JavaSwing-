@@ -1,4 +1,4 @@
-(Copy and Paste from old git account Gpannu78)
+(Copy and Paste from old git account @GPannu78)
 
 # 🎮 Trivia Game
 
